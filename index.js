@@ -23,6 +23,8 @@ const Calculator = {
 
 function actionApplyer(start, arr){
   if(arr.length === 0){
+    return start;
+  }else{
     
   }
 }
