@@ -25,7 +25,9 @@ function actionApplyer(start, arr){
   if(arr.length === 0){
     return start;
   }else{
-    
+    let x = start
+        arr.forEach(fn => value = fn(value))
+        return value
   }
 }
 
