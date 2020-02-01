@@ -21,4 +21,6 @@ const Calculator = {
   divide: (a,b) => a / b
 }
 
+function actionApplyer(start, )
+
 
