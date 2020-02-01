@@ -21,6 +21,8 @@ const Calculator = {
   divide: (a,b) => a / b
 }
 
-function actionApplyer(start, )
+function actionApplyer(start, array){
+  
+}
 
 
