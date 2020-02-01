@@ -21,3 +21,4 @@ const Calculator = {
   divide: (a,b) => a / b
 }
 
+
